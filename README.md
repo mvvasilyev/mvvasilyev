@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+#### Здесь ведущий разработчик ```ABAP``` переходит из мира ```SAP HCM``` в системную аналитику и прочий ```REST``` с ```FastAPI```
 <!--
 **mvvasilyev/mvvasilyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
